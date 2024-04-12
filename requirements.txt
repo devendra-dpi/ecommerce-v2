@@ -3,7 +3,7 @@ certifi==2023.5.7
 charset-normalizer==3.1.0
 Django==4.2.2
 GDAL
-idna==3.4
+idna==3.7
 Pillow==9.5.0
 psycopg2==2.9.6
 python-decouple==3.8
